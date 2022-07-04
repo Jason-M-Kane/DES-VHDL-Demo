@@ -1,0 +1,100 @@
+Restore Archived Project report for talk
+Sun Jul 03 21:30:30 2022
+Quartus II 32-bit Version 12.1 Build 243 01/31/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2012 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Sun Jul 03 21:30:30 2022 ;
+; Revision Name                   ; talk                                  ;
+; Top-level Entity Name           ; talk                                  ;
+; Family                          ; Cyclone II                            ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/konata/Desktop/Software/DES_FINAL_DONE/TALK-RS232/jason_kane_final_finallyworks.qar' into the 'C:/Users/konata/Desktop/Software/DES_Archived/' directory
+Info: Generated report 'talk.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/12.1sp1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 32-bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 238 megabytes
+    Info: Processing ended: Sun Jul 03 21:30:30 2022
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++------------------------------+
+; Files Restored               ;
++------------------------------+
+; File Name                    ;
++------------------------------+
+; F_Function.vhd               ;
+; assignment_defaults.qdf      ;
+; debounce.vhd                 ;
+; des.vhd                      ;
+; k2a.mif                      ;
+; keyScheduler.vhd             ;
+; keyboard.vhd                 ;
+; onePortRam.cmp               ;
+; onePortRam.qip               ;
+; onePortRam.vhd               ;
+; rs232.vhd                    ;
+; sbox1.mif                    ;
+; sbox2.mif                    ;
+; sbox3.mif                    ;
+; sbox4.mif                    ;
+; sbox5.mif                    ;
+; sbox6.mif                    ;
+; sbox7.mif                    ;
+; sbox8.mif                    ;
+; sevenseg.vhd                 ;
+; talk.qpf                     ;
+; talk.qsf                     ;
+; talk.vhd                     ;
+; talk_assignment_defaults.qdf ;
+; tcgrom.mif                   ;
+; textRom.mif                  ;
+; vga.vhd                      ;
++------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

@@ -1,0 +1,102 @@
+-- Copyright (C) 1991-2009 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=12;
+DEPTH=128;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	00  :   200;	--	
+	01  :   0D4;	--	M
+	02  :   0F4;	--	O
+	03  :   044;	--	D
+	04  :   054;	--	E
+	05  :   3D4;	--	=
+	06  :   044;	--	D
+	07  :   054;	--	E
+	08  :   134;	--	S
+	09  :   200;	--	
+	0A  :   200;	--	
+	0B  :   200;	--	
+	0C  :   200;	--	
+	0D  :   200;	--	
+
+	0E  :   0B4;	--	K
+	0F  :   054;	--	E
+	10  :   194;	--	Y
+	11  :   3A4;	--	:
+
+	12  :   0D2;	--	M
+	13  :   052;	--	E
+	14  :   132;	--	S
+	15  :   132;	--	S
+	16  :   012;	--	A
+	17  :   072;	--	G
+	18  :   052;	--	E
+	19  :   200;	--	' '
+	1A  :   142;	--	T
+	1B  :   0F2;	--	O
+	1C  :   200;	--	' '
+	1D  :   132;	--	S
+	1E  :   052;	--	E
+	1F  :   0E2;	--	N
+	20  :   042;  	--    D
+	21  :   3A2;  	--    :
+
+	22  :   052;	--	E
+	23  :   0E2;	--	N
+	24  :   032;	--	C
+	25  :   122;	--	R
+	26  :   192;	--	Y
+	27  :   102;	--	P
+	28  :   142;	--	T
+	29  :   052;	--	E
+	2A  :   042;	--	D
+	2B  :   3A2;	--	:
+
+	2C  :   125;	--	R
+	2D  :   055;	--	E
+	2E  :   035;	--	C
+	2F  :   055;	--	E
+	30  :   095; 	--    I
+	31  :   165; 	--    V
+	32  :   055;	--	E
+	33  :   045;	--	D
+	34  :   200;	--	' '
+	35  :   0D5;	--	M
+	36  :   055;	--	E
+	37  :   135;	--	S
+	38  :   135;	--	S
+	39  :   015;	--	A
+	3A  :   075;	--	G
+	3B  :   055;	--	E
+	3C  :   3A5; 	--    :
+
+	3D  :   045;	--	D
+	3E  :   055;	--	E
+	3F  :   035;	--	C
+	40  :   125; 	--    R
+	41  :   195; 	--    Y
+	42  :   105;	--	P
+	43  :   145;	--	T
+	44  :   055;	--	E
+	45  :   045;	--	D
+	46  :   3A5;	--	:
+
+	[47..7F]  :   200;
+END;
