@@ -1,6 +1,7 @@
 # DES-VHDL-Demo  
 An implementation of the Data Encryption Standard (DES) in VHDL for Altera DE2 Board.  
-The Demo allows a user to set up a point to point serial messaging interface that will encrypt/decrypt all messages using DES.  
+The DES specification, FIPS 46-3, is available at: http://csrc.nist.gov/publications/fips/fips46-3/fips46-3.pdf  
+The Demo allows a user to set up a point to point serial messaging interface that will encrypt/decrypt messages using DES.  
 
 Usage: After programming the DE2 board, connect a VGA monitor, a PS/2 keyboard, and a serial cable.  
 If two DE2 boards are available, use the serial cable to connect their RX and TX lines.   
